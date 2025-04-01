@@ -1,17 +1,23 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name:
+      'Planificación e implementación de buenas prácticas ganaderas en la producción de carne bovina',
+    Description:
+      'La producción eficiente requiere planificación, bienestar animal, sanidad y sostenibilidad. La normativa colombiana regula la inocuidad y seguridad laboral. La modernización y la adopción de tecnologías fortalecen la competitividad en mercados nacionales e internacionales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,27 +37,78 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Empresa ganadera bovina de carne',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Política sanitaria y de inocuidad en alimentos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Normativa en seguridad y salud en el trabajo concepto y aplicación',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Implicaciones e importancia',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo:
+          'Buenas prácticas ganaderas en la producción de bovinos de carne (BPG) y bienestar animal',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Bienestar animal',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Componentes BPG',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Criterios de cumplimiento y listas de chequeo',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Aplicación BPG',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Recursos para la implementación de BPG',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Diagnóstico de aplicación BPG en el predio y bienestar animal',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Gestión ambiental y de calidad en bovinos de carne',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Reglamentación enfocada en la seguridad del personal ganadero',
         desarrolloContenidos: true,
       },
     ],

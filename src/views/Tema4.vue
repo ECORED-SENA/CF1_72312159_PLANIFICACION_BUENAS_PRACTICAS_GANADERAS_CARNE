@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Diagnóstico de aplicación BPG en el predio y bienestar animal
 
 
 </template>
