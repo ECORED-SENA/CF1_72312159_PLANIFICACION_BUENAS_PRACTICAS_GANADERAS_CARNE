@@ -159,22 +159,175 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'BPG en producción de bovinos de carne',
+      referencia:
+        'Jorge Mario (2021). <i>Buenas prácticas ganaderas, ICA 2020</i>. [Archivo de video] YouTube.  ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=F1SXng6fIr4',
+    },
+    {
+      tema: 'Diagnóstico de aplicación BPG en el predio',
+      referencia:
+        'Asocebu Col. (2020). <i>Hablemos de Cebú - importancia en la prevención de las enfermedades de control oficial en Colombia</i>. [Archivo de video] YouTube.  ',
+      tipo: 'Diagnóstico de aplicación BPG en el predio',
+      link: 'https://www.youtube.com/watch?v=9jPXUuk2WNI',
+    },
+    {
+      tema: 'Diagnóstico de aplicación BPG en el predio',
+      referencia:
+        'Zootecnia y veterinaria es mi pasión. (2022). <i>Zootecnia, veterinaria y producción animal</i>. Zoovetesmipasion. [Archivo de video] YouTube.  ',
+      tipo: 'Página web',
+      link:
+        'https://zoovetesmipasion.com/ganaderia/buenas-practicas-ganaderas-2',
+    },
+    {
+      tema: 'Gestión ambiental en bovinos de carne',
+      referencia:
+        'La Finca de Hoy. (2020). <i>Así debe ser un correcto plan sanitario para el bienestar de sus bovinos - La Finca de Hoy</i>. [Archivo de video] YouTube.  ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=uVxB71GZBpw',
+    },
+    {
+      tema: 'Buenas Prácticas',
+      referencia: 'FEDEGAN (2024). <i>Buenas practicas</i>.',
+      tipo: 'Video',
+      link:
+        'https://www.facebook.com/FedeganColombia/videos/buenas-practicas/933326963735682/',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Bienestar animal',
+      significado:
+        'estado físico y mental de un animal en relación con las condiciones en las que vive y muere.',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'conjunto de prácticas sanitarias y preventivas para evitar la entrada y salida de agentes infecciosos en la producción ganadera.',
+    },
+    {
+      termino: 'Buenas prácticas ganaderas (BPG)',
+      significado:
+        'conjunto de normas y procedimientos que garantizan la sanidad, inocuidad y sostenibilidad en la producción ganadera.',
+    },
+    {
+      termino: 'FEDEGAN',
+      significado: 'federación colombiana de ganaderos.',
+    },
+    {
+      termino: 'ICA (Instituto Colombiano Agropecuario)',
+      significado:
+        'entidad encargada de regular y certificar las buenas prácticas en el sector agropecuario en Colombia.',
+    },
+    {
+      termino: 'Inocuidad',
+      significado:
+        'garantía de que los alimentos no causarán daño al consumidor cuando se preparen y consuman de acuerdo con su uso previsto.',
+    },
+    {
+      termino: 'Normativa sanitaria',
+      significado:
+        'conjunto de leyes y regulaciones que rigen la producción y comercialización de productos de origen animal.',
+    },
+    {
+      termino: 'Sanidad animal',
+      significado:
+        'conjunto de medidas de prevención y control de enfermedades en los animales de producción.',
+    },
+    {
+      termino: 'Sostenibilidad',
+      significado:
+        'capacidad de una empresa ganadera para operar de manera rentable sin afectar negativamente al medio ambiente y a las futuras generaciones.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'sistema que permite rastrear el origen, manejo y destino de los productos ganaderos para asegurar su calidad y seguridad.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Consejo Nacional de Política Económica y Social (CONPES). (2010). <i>Política sanitaria y de inocuidad para las cadenas láctea y cárnica (Documento CONPES 3676)</i>. Departamento Nacional de Planeación. ',
+      link:
+        'https://www.ica.gov.co/getattachment/3b31038a-72ba-40f9-a34d-cecd89015890/2010cp3676.aspx',
+    },
+    {
+      referencia:
+        'Corrientes Portal Turístico Provincial. (s.f.). <i>Ganadería de corrientes</i>. Corrientes. ',
+      link: 'http://www.corrientes.com.ar/provincia/ganaderia.php',
+    },
+    {
+      referencia:
+        'Federación Colombiana de Ganaderos. (s.f.). <i>Buenas prácticas ganaderas</i>. FEDEGAN. ',
+      link:
+        'https://www.fedegan.org.co/programas/buenas-practicas-ganaderas#:~:text=Las%20Buenas%20Pr%C3%A1cticas%20Ganaderas%20(BPG,que%20trabajan%20en%20la%20explotaci%C3%B3n',
+    },
+    {
+      referencia:
+        'García, E. (2019). <i>Ganadería de Sinaloa fuera del programa créditos a la palabra</i>. Luz noticias. ',
+      link:
+        'https://www.luznoticias.mx/agro/ganaderia-de-sinaloa-fuera-del-programa-creditos-a-la-palabra/57574',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2007). <i>Resolución 2341 de 2007. Por la cual se establecen requisitos sanitarios en la producción primaria de ganado bovino y bufalino destinado al sacrificio</i>. ',
+      link:
+        'https://www.ica.gov.co/getattachment/0b5de556-cb4a-43a8-a27a-cd9a2064b1ab/2341.aspx',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (2020). <i>Resolución 68167 de 2020 [Documento en línea]</i>. ICA. ',
+      link:
+        'https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (s.f.). <i>Reglamento sobre las condiciones sanitarias y de inocuidad en la producción de ganado bovino y porcino</i>. ',
+      link:
+        'https://www.ica.gov.co/getdoc/016f3c96-a458-4fa6-ae96-41d18b2221f5/requisitos-sanitarios-y-de-inocuidad-en-la-producc.aspx',
+    },
+    {
+      referencia:
+        'Metro Ecuador. (2019). <i>La "ganadería climáticamente inteligente" se consolida en Ecuador</i>. Contexto ganadero. ',
+      link:
+        'https://www.contextoganadero.com/reportaje/la-ganaderia-climaticamente-inteligente-se-consolida-en-ecuador',
+    },
+    {
+      referencia:
+        'Ministerio de Agricultura y Desarrollo Rural. (2020). <i>Resolución 000253 de 2020. Por la cual se adopta el Manual de Condiciones de Bienestar Animal para cada especie de producción agropecuaria</i>. ',
+      link:
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=101246',
+    },
+    {
+      referencia:
+        'OnCuba. (2018). <i>Ganadería cubana: más leche, pero muy lejos de satisfacer la demanda</i>. OnCuba News. ',
+      link:
+        'https://oncubanews.com/cuba/ganaderia-cubana-mas-leche-pero-muy-lejos-de-satisfacer-la-demanda/',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2007). <i>Decreto 1500 de 2007. Por el cual se establece el reglamento técnico que crea el Sistema Oficial de Inspección, Vigilancia y Control de la Carne y Productos Cárnicos Comestibles</i>. Diario Oficial de Colombia. ',
+      link:
+        'https://corponarino.gov.co/expedientes/juridica/2007decreto1500.pdf',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2017). <i>Decreto 2113 de 2017. Por el cual se adiciona el Capítulo 5 sobre bienestar animal en el sector agropecuario</i>. Diario Oficial de Colombia. ',
+      link:
+        'https://www.minagricultura.gov.co/Normatividad/Decretos/Decreto%20No.%202113%20de%202017.pdf',
+    },
+    {
+      referencia:
+        'Rangel, V. (2020). <i>Gestión ambiental en el sector ganadero doble propósito de los pequeños productores en Maicao, Colombia</i>. Revista Espacios. ',
+      link: 'https://www.revistaespacios.com/a20v41n27/a20v41n27p03.pdf',
+    },
+    {
+      referencia:
+        'Resolución 068167 de 2020. [Instituto Colombiano Agropecuario]. <i>Por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción de carne de bovinos y/o bufalinos</i>. ',
+      link:
+        'https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx',
     },
   ],
   creditos: [
@@ -182,14 +335,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable línea de producción',
+          centro: 'Dirección general',
         },
       ],
     },
@@ -197,9 +350,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez',
+          cargo: 'Experta temática',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario del Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario del Huila',
         },
       ],
     },
@@ -207,19 +367,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Diana Milena Picon Rincon',
           cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario del Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario del Huila',
         },
       ],
     },
@@ -228,13 +385,14 @@ export default {
       autores: [
         {
           nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro XYZ - Regional XYZ',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario del Huila',
         },
       ],
     },
