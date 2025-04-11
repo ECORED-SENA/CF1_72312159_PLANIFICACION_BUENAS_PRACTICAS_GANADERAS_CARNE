@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La economía colombiana sigue dependiendo del desarrollo de los sectores primario, secundario y terciario, con la agricultura y la agroindustria como pilares fundamentales. La producción y exportación de bienes de consumo, especialmente alimentos de origen animal desempeñan un papel clave en la seguridad alimentaria y el crecimiento económico del país.
+        p.mb-0 La economía colombiana sigue dependiendo del desarrollo de los sectores primario, secundario y terciario, con la agricultura y la agroindustria como pilares fundamentales. La producción y exportación de bienes de consumo, especialmente alimentos de origen animal, desempeñan un papel clave en la seguridad alimentaria y el crecimiento económico del país.
     .row.align-items-center.mb-5
       .col-md-auto.mb-3.mb-md-0(data-aos="fade-right")
         figure
@@ -38,7 +38,7 @@
             .col-12
               .p-4
                 p.mb-0 #[b Resolución 136 de 2020 (ICA)]
-                p.mb-0 Establece directrices específicas para la protección de los animales en explotaciones ganaderas
+                p.mb-0 Establece directrices específicas para la protección de los animales en explotaciones ganaderas.
     p.mb-5(data-aos="fade-right") El cumplimiento de estas normativas no solo mejora la calidad y competitividad de la producción, sino que también fortalece la sostenibilidad del sector, promoviendo sistemas ganaderos más eficientes, responsables y alineados con las exigencias del mercado global. Los aspectos clave de las Buenas Prácticas Ganaderas (BPG) son:
     .row.bg-c25
       .col-12
@@ -95,7 +95,7 @@
         .row.h-100.align-items-center.bg-c19
           .col-12
             .p-4
-              p.mb-0 El bienestar animal se define como el estado físico y mental de un animal en relación con las condiciones en las que vive y muere (OMSA, 2018). Un animal está en buenas condiciones de bienestar si se encuentra sano, cómodo, bien alimentado, seguro y puede expresar formas innatas de comportamiento
+              p.mb-0 El bienestar animal se define como el estado físico y mental de un animal en relación con las condiciones en las que vive y muere (OMSA, 2018). Un animal está en buenas condiciones de bienestar si se encuentra sano, cómodo, bien alimentado, seguro y puede expresar formas innatas de comportamiento.
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
         figure
           img(src='@/assets/curso/tema2/img4.png', alt='', style='width: 390px').m-auto
@@ -127,7 +127,7 @@
     #t_2_2
     .titulo-segundo.color-acento-contenido
       h2 2.2 Componentes BPG
-    p.mb-4(data-aos="fade-right") Para la implementación de las #[b Buenas Prácticas Ganaderas (BPG)] es fundamental llevar un #[b registro detallado] de cada una de las actividades relacionadas con el sector ganadero. Además, se debe contar con una planilla de verificación, que permita documentar y controlar cada proceso realizado.A continuación, se presentan los principales componentes a considerar en la aplicación de las BPG:
+    p.mb-4(data-aos="fade-right") Para la implementación de las #[b Buenas Prácticas Ganaderas (BPG)] es fundamental llevar un #[b registro detallado] de cada una de las actividades relacionadas con el sector ganadero. Además, se debe contar con una planilla de verificación, que permita documentar y controlar cada proceso realizado. A continuación, se presentan los principales componentes a considerar en la aplicación de las BPG:
     figure.mb-4(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/QCcIP7JTo-0?si=ZSfVgiT45NDTrxJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -219,7 +219,7 @@
             .col-auto
               .py-2.px-3.bg-c30
                 p.mb-0 #[b Oportunidades de mercadeo]
-          p.text-center.mb-0 Cumplir con estándares internacionales favorece la admisibilidad de productos como carne y leche, fortaleciendo la posición de Colombia como exportado
+          p.text-center.mb-0 Cumplir con estándares internacionales favorece la admisibilidad de productos como carne y leche, fortaleciendo la posición de Colombia como exportado.
       .col-10.col-md-6.col-lg-4
         .p-4.bg-c29
           figure.mb-3

@@ -384,9 +384,10 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario del Huila',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',

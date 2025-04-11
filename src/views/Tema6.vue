@@ -43,8 +43,8 @@
                 li.d-flex
                   i.fas.fa-arrow-circle-right
                   |
-                  p.mb-0 Sensibilización sobre higiene y uso adecuado de #[b Elementos de Protección Personal (EPP)].
-          .row(titulo="Uso obligatorio de Elementos de Protección Personal (EPP)")
+                  p.mb-0 Sensibilización sobre higiene y uso adecuado de #[b elementos de protección personal (EPP)].
+          .row(titulo="Uso obligatorio de elementos de protección personal (EPP)")
             .col-12
               ul.lista-ul
                 li.d-flex
@@ -172,7 +172,7 @@
                 .col-8
                   img(src='@/assets/curso/tema6/img2.svg' alt='AvatarTop')
               h2.text-center #[b Botas de caucho]
-              p.text-center.mb-0 Protección ante humedad, suciedad y contacto con residuos biológicos
+              p.text-center.mb-0 Protección ante humedad, suciedad y contacto con residuos biológicos.
             .tarjeta.bg-c1.p-4
               .row.justify-content-center.mb-3
                 .col-8

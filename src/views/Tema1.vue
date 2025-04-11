@@ -110,7 +110,7 @@
           .row.bg-c7
             .col-12
               .p-3
-                p.text-center.mb-0 Se debe aplicar estrategias organizacionales en constante evolución, tomando como referencias prácticas exitosas implementadas en países desarrollados.
+                p.text-center.mb-0 Se deben aplicar estrategias organizacionales en constante evolución, tomando como referencias prácticas exitosas implementadas en países desarrollados.
       .col-md-6.col-lg-3
         .p-2
           .row.bg-c6
@@ -407,7 +407,7 @@
             )
             .bloque-texto-g__texto.p-4
               p.mb-0 En la actualidad, las exigencias del mercado han impulsado la evolución de la ganadería tradicional hacia modelos productivos con enfoque empresarial, priorizando la trazabilidad, el bienestar animal y la sostenibilidad ambiental. Factores como la demanda de carne certificada, la reducción de la huella de carbono y la adaptación al cambio climático han llevado a la adopción de sistemas de producción más eficientes, como la ganadería regenerativa, los sistemas silvopastoriles y la alimentación estratégica basada en suplementación y mejoramiento de pasturas.
-    p.mb-5(data-aos="fade-right") Asimismo, la digitalización del sector ha permitido optimizar la gestión ganadera mediante el uso de softwares especializados, sensores para monitoreo del ganado y plataformas de comercialización digital. De esta manera, la ganadería bovina de carne no solo responde a los estándares de calidad exigidos a nivel nacional e internacional, sino que también se proyecta como un sector competitivo y sostenible en el tiempo.
+    p.mb-5(data-aos="fade-right") Asimismo, la digitalización del sector ha permitido optimizar la gestión ganadera mediante el uso de #[i softwares] especializados, sensores para monitoreo del ganado y plataformas de comercialización digital. De esta manera, la ganadería bovina de carne no solo responde a los estándares de calidad exigidos a nivel nacional e internacional, sino que también se proyecta como un sector competitivo y sostenible en el tiempo.
     .row.mb-2.ms-0
       .col-auto.bg-c4(data-aos="fade-left")
         .row.align-items-center
@@ -474,7 +474,7 @@
                       li.d-flex
                         i.fas.fa-arrow-circle-right
                         |
-                        p.mb-0 Propende, por principio, salvaguardar la vida de los consumidores.
+                        p.mb-0 Propende, por principio, a salvaguardar la vida de los consumidores.
                       li.d-flex
                         i.fas.fa-arrow-circle-right
                         |
@@ -520,7 +520,7 @@
       .col-10.col-md-6.col-lg-3
         .p-4.bg-c12
           p.text-center.mb-0 Resolución 1513 de 2004
-    p.mb-4(data-aos="fade-down") En cuanto a la inocuidad pecuaria conozca en la siguiente gráfica la reglamentación existente; tenga presente que tales normativas se actualizan, se postulan cambios y ajustes permanentes para las prácticas ganaderas de producción:
+    p.mb-4(data-aos="fade-down") En cuanto a la inocuidad pecuaria, conozca en la siguiente gráfica la reglamentación existente; tenga presente que tales normativas se actualizan, se postulan cambios y ajustes permanentes para las prácticas ganaderas de producción:
     .row.bg-c20
       .col-12
         .px-5
@@ -549,7 +549,7 @@
                   td
                     p.mb-0 Decreto 1500 de 2007
                   td
-                    p.txt-c1 Establece el reglamento técnico que crea el Sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos, estableciendo los requisitos sanitarios y de inocuidad necesarios a lo largo de toda la cadena productiva.
+                    p.txt-c1 Establece el reglamento técnico que crea el sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos, estableciendo los requisitos sanitarios y de inocuidad necesarios a lo largo de toda la cadena productiva.
                     p.txt-c1 Consultar norma en:
                     .row
                       .col-auto
@@ -573,7 +573,7 @@
                             p #[b Enlace web.] Resolución 2341 de 2007
                 tr
                   td
-                    p.mb-0 Resolución Número 000253 de 2020
+                    p.mb-0 Resolución número 000253 de 2020
                   td
                     p.txt-c1 Adopta el Manual de Condiciones de Bienestar Animal para cada especie de producción del sector agropecuario, buscando garantizar el bienestar animal en todas las etapas de producción.
                     p.txt-c1 Consultar norma en:
@@ -592,7 +592,7 @@
                     p.txt-c1 Consultar norma en:
                     .row
                       .col-auto
-                        a.anexo.mb-4.mb-lg-0.shadow(href="https://www.minagricultura.gov.co/Normatividad/Decretos/Decreto%20No.%202113%20de%202017.pdf" target="_blank")
+                        a.anexo.mb-4.mb-lg-0.shadow(href="https://www.ica.gov.co/normatividad/normas-nacionales/decretos/2017" target="_blank")
                           .anexo__icono
                             img(src="@/assets/template/icono-link.svg")
                           .anexo__texto
@@ -616,7 +616,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-5.mb-4.mb-lg-0
             p #[b Reducción de la demanda interna]
-            p.mb-0 La industria nacional de carne logró mitigar la reducción del consumo interno aumentando sus volúmenes de exportación en un 80% durante el primer trimestre de 2020 (Contexto Ganadero, 2020d; DANE-ESAG, 2020a).
+            p.mb-0 La industria nacional de carne logró mitigar la reducción del consumo interno aumentando sus volúmenes de exportación en un 80 % durante el primer trimestre de 2020 (Contexto Ganadero, 2020d; DANE-ESAG, 2020a).
           .col-lg-5
             figure
               img(src="@/assets/curso/tema1/img29.png", alt="", style="width: 500px").m-auto
