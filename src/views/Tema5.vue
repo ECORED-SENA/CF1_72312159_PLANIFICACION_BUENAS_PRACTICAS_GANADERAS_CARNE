@@ -15,7 +15,7 @@
               figure
                 img(src='@/assets/curso/tema5/img1.svg', alt='', style='width: 250px').m-auto
             .col-lg
-              p.text-white Lo invitamos a escuchar el siguiente Pódcast:
+              p.text-white Lo invitamos a escuchar el siguiente #[i Pódcast]:
               TarjetaAudio.color-acento-contenido(
                   texto="Ventajas ambientales de la certificación en BPG"
                   :audio="require('@/assets/curso/tema5/audio1.wav')"

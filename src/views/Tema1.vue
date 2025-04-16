@@ -457,11 +457,11 @@
                       li.d-flex
                         i.fas.fa-arrow-circle-right
                         |
-                        p.mb-0 CONPES 3375: Política nacional de sanidad agropecuaria e inocuidad de alimentos para el sistema de medidas sanitarias y fitosanitarias.
+                        p.mb-0 #[b CONPES 3375:] Política nacional de sanidad agropecuaria e inocuidad de alimentos para el sistema de medidas sanitarias y fitosanitarias.
                       li.d-flex
                         i.fas.fa-arrow-circle-right
                         |
-                        p.mb-0 CONPES 3375: Política nacional de sanidad agropecuaria e inocuidad de alimentos para el sistema de medidas sanitarias y fitosanitarias.
+                        p.mb-0 #[b CONPES 3376:] Política sanitaria y de inocuidad para las cadenas de la carne y de la leche.
               .row
                 .col-12
                   .p-4

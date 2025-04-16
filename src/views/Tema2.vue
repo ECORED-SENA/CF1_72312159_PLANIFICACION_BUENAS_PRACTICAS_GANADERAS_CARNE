@@ -83,7 +83,7 @@
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema2/img7.svg' alt='AvatarTop')
-                  h2.text-center #[b Impacto en la salud pública]
+                  h2.text-center #[b Normativas vigentes]
                   p.text-center.mb-0 Resolución 3585 de 2008: Aplicable a empresas productoras de leche.
                   p.text-center.mb-0 Resolución 2341 de 2007: Aplicable a empresas de carne.
           Separador

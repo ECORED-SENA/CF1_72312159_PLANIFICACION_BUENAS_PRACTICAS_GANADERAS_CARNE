@@ -143,7 +143,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/22060104_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -169,7 +169,7 @@ export default {
       tema: 'Diagnóstico de aplicación BPG en el predio',
       referencia:
         'Asocebu Col. (2020). <i>Hablemos de Cebú - importancia en la prevención de las enfermedades de control oficial en Colombia</i>. [Archivo de video] YouTube.  ',
-      tipo: 'Diagnóstico de aplicación BPG en el predio',
+      tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=9jPXUuk2WNI',
     },
     {
@@ -212,8 +212,8 @@ export default {
         'conjunto de normas y procedimientos que garantizan la sanidad, inocuidad y sostenibilidad en la producción ganadera.',
     },
     {
-      termino: 'FEDEGAN',
-      significado: 'federación colombiana de ganaderos.',
+      termino: 'FEDEGÁN',
+      significado: ' Federación Colombiana de Ganaderos.',
     },
     {
       termino: 'ICA (Instituto Colombiano Agropecuario)',

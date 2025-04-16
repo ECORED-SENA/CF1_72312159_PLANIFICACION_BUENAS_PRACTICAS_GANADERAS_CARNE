@@ -87,62 +87,62 @@
             table
               thead
                 tr
-                  th(width="30%") Regulación
+                  th(width="25%") Regulación
                   th Descripción
               tbody
                 tr.bg-c36
                   td
-                    p.mb-0 #[b Resolución 000550 de 2006]
+                    p.txt-c1.mb-0 #[b Resolución 000550 de 2006]
                   td
-                    p.txt-c1 Control de la brucelosis en Colombia
+                    p.txt-c1 Control de la brucelosis en Colombia.
                 tr.bg-white
                   td
-                    p.mb-0 #[b Resolución 072 de 2007]
+                    p.txt-c1.mb-0 #[b Resolución 072 de 2007]
                   td
                     p.txt-c1 Manual de buenas prácticas de manejo para la producción y obtención de piel de ganado bovino y bufalino.
                 tr.bg-c36
                   td
-                    p.mb-0 #[b Resolución 2905 de 2007]
+                    p.txt-c1.mb-0 #[b Resolución 2905 de 2007]
                   td
                     p.txt-c1 Reglamento técnico sobre requisitos sanitarios e inocuidad de la carne y productos cárnicos comestibles.
                 tr.bg-white
                   td
-                    p.mb-0 #[b Decreto 1500 de 2007]
+                    p.txt-c1.mb-0 #[b Decreto 1500 de 2007]
                   td
                     p.txt-c1 Creación del Sistema Oficial de Inspección, Vigilancia y Control de carne y productos cárnicos para el consumo humano.
                 tr.bg-c36
                   td
-                    p.mb-0 #[b Resolución 18119 de 2007]
+                    p.txt-c1.mb-0 #[b Resolución 18119 de 2007]
                   td
                     p.txt-c1 Requisitos del Plan Gradual de Cumplimiento para plantas de beneficio y desposte de bovinos y bufalinos.
                 tr.bg-white
                   td
-                    p.mb-0 #[b Decreto 2278 de 1982]
+                    p.txt-c1.mb-0 #[b Decreto 2278 de 1982]
                   td
                     p.txt-c1 Reglamentación parcial del título V de la Ley 09 de 1979 sobre sacrificio de animales y comercialización de carne.
                 tr.bg-c36
                   td
-                    p.mb-0 #[b Decreto 0616 de 2006]
+                    p.txt-c1.mb-0 #[b Decreto 0616 de 2006]
                   td
                     p.txt-c1 Reglamento técnico de requisitos sanitarios para la leche de consumo humano.
                 tr.bg-white
                   td
-                    p.mb-0 #[b Decreto 02838 de 2006]
+                    p.txt-c1.mb-0 #[b Decreto 02838 de 2006]
                   td
                     p.txt-c1 Modificación parcial del Decreto 616 de 2006.
                 tr.bg-c36
                   td
-                    p.mb-0 #[b Decreto 2964 de 2008]
+                    p.txt-c1.mb-0 #[b Decreto 2964 de 2008]
                   td
                     p.txt-c1 Modificación parcial del Decreto 2838 de 2006.
                 tr.bg-white
                   td
-                    p.mb-0 #[b Resolución 0312 de 2019]
+                    p.txt-c1.mb-0 #[b Resolución 0312 de 2019]
                   td
                     p.txt-c1 Establece estándares mínimos en SST para el sector agropecuario.
                 tr.bg-c36
                   td
-                    p.mb-0 #[b Decreto 1072 de 2015]
+                    p.txt-c1.mb-0 #[b Decreto 1072 de 2015]
                   td
                     p.txt-c1 Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST).
     .row.justify-content-center.mb-5

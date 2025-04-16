@@ -134,7 +134,7 @@
                     figure
                       img(src='@/assets/curso/tema4/img5.svg', alt='', style='width: 80px').m-auto
                   .col-md
-                    p Se recomienda consultar la #[b Resolución 068167 de 2020] para ampliar el conocimiento sobre los criterios de cumplimiento y listas de chequeo en la aplicación de buenas prácticas ganaderas.
+                    p Se recomienda consultar la #[b Resolución 068167 de 2020] para ampliar el conocimiento sobre los criterios de cumplimiento y listas de chequeo en la aplicación de buenas prácticas ganaderas, consultando la Resolución 068167 del 2020, en el enlace que encuentra a continuación:
                     .row
                       .col-auto
                         a.anexo.mb-4.mb-lg-0.shadow(href="https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx" target="_blank")
