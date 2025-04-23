@@ -18,7 +18,7 @@
               p.text-white Lo invitamos a escuchar el siguiente #[i Pódcast]:
               TarjetaAudio.color-acento-contenido(
                   texto="Ventajas ambientales de la certificación en BPG"
-                  :audio="require('@/assets/curso/tema5/audio1.wav')"
+                  :audio="require('@/assets/curso/tema5/audio1.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
