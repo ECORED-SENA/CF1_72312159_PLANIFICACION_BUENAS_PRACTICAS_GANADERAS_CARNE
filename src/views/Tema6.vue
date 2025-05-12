@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
-      h1 Reglamentación enfocada en la seguridad del personal ganadero
+      h1 La seguridad y salud en el trabajo aplicada
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-down")
         .row
@@ -145,7 +145,7 @@
                     p.txt-c1.mb-0 #[b Decreto 1072 de 2015]
                   td
                     p.txt-c1 Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST).
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
         .p-4.bg-c31
           .row.align-items-center
@@ -154,17 +154,13 @@
                 img(src='@/assets/curso/tema6/img1.svg', alt='', style='width: 80px').m-auto
             .col-md
               p.mb-0 FEDEGAN, en conjunto con el ICA, apoya las acciones sanitarias que deben cumplir las plantas de beneficio y los carniceros, asegurando el cumplimiento de normativas nacionales e internacionales.
+    Separador
     .row.bg-c37
       .col-12
         .px-5
-          .row.mb-2.ms-0
-            .col-auto.bg-c4(data-aos="fade-left")
-              .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
-                .col
-                  h3.mb-0 Elementos de protección personal (EPP) en ganadería de carne
+          #t_6_1
+          .titulo-segundo.color-acento-contenido
+            h2 6.1 Elementos de protección personal (EPP) en ganadería de carne
           p.mb-4(data-aos="fade-right") El uso de EPP es obligatorio en el manejo de productos cárnicos, siguiendo las normativas de Seguridad y Salud en el Trabajo (SST) y Manejo Integrado de Plagas (MIP).
           SlyderF.mb-4(columnas="col-md-6 col-lg-4")(data-aos="fade-left")
             .tarjeta.bg-c1.p-4

@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Planificación e implementación de buenas prácticas ganaderas en la producción de carne bovina',
+      'Conceptualización en buenas prácticas ganaderas para bovinos de carne',
     Description:
       'La producción eficiente requiere planificación, bienestar animal, sanidad y sostenibilidad. La normativa colombiana regula la inocuidad y seguridad laboral. La modernización y la adopción de tecnologías fortalecen la competitividad en mercados nacionales e internacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -37,79 +37,108 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Empresa ganadera bovina de carne',
+        titulo: 'Ganado bovino de carne',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Política sanitaria y de inocuidad en alimentos',
+            titulo: 'Concepto y características',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo:
-              'Normativa en seguridad y salud en el trabajo concepto y aplicación',
+            titulo: 'Principales razas de ganado de carne en Colombia',
             hash: 't_1_2',
-          },
-          {
-            numero: '1.3',
-            titulo: 'Implicaciones e importancia',
-            hash: 't_1_3',
           },
         ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
+        titulo: 'Empresa ganadera bovina de carne',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '3',
+        titulo: 'Política sanitaria y de inocuidad en alimentos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Legislación',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Implicaciones e importancia',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
         titulo:
           'Buenas prácticas ganaderas en la producción de bovinos de carne (BPG) y bienestar animal',
         desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '2.1',
+            numero: '4.1',
             titulo: 'Bienestar animal',
-            hash: 't_2_1',
+            hash: 't_4_1',
           },
           {
-            numero: '2.2',
+            numero: '4.2',
             titulo: 'Componentes BPG',
-            hash: 't_2_2',
+            hash: 't_4_2',
           },
           {
-            numero: '2.3',
+            numero: '4.3',
             titulo: 'Criterios de cumplimiento y listas de chequeo',
-            hash: 't_2_3',
+            hash: 't_4_3',
           },
           {
-            numero: '2.4',
-            titulo: 'Aplicación BPG',
-            hash: 't_2_4',
+            numero: '4.4',
+            titulo: 'Recursos para la implementación de BPG',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo:
+              'Diagnóstico de aplicación BPG en el predio y bienestar animal',
+            hash: 't_4_5',
           },
         ],
       },
       {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Recursos para la implementación de BPG',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema4',
-        numero: '4',
-        titulo: 'Diagnóstico de aplicación BPG en el predio y bienestar animal',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Gestión ambiental y de calidad en bovinos de carne',
+        titulo:
+          'Gestión ambiental en la producción de bovinos de carne según la certificación en buenas prácticas ganaderas (BPG)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Buenas prácticas de conservación y protección de la biodiversidad',
+            hash: 't_5_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Reglamentación enfocada en la seguridad del personal ganadero',
+        titulo: 'La seguridad y salud en el trabajo aplicada',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo:
+              'Elementos de protección personal (EPP) en ganadería de carne',
+            hash: 't_6_1',
+          },
+        ],
       },
     ],
     subMenu: [
