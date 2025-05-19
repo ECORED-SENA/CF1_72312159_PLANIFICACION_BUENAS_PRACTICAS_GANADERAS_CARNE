@@ -130,7 +130,7 @@
           .row.bg-c7
             .col-12
               .p-3
-                p.text-center.mb-0 La eficiencia se mide en kilogramos de carne producidos por hectárea, determinada por la ganancia media diaria de pero (GMD) y la capacidad de carga animal.
+                p.text-center.mb-0 La eficiencia se mide en kilogramos de carne producidos por hectárea, determinada por la ganancia media diaria de peso (GMD - Ganancia Media Diaria) y la capacidad de carga animal.
     p.mb-5(data-aos="fade-right") Esta organización permite una gestión estructurada y sostenible de la empresa ganadera, optimizando su productividad y asegurando su permanencia en el mercado.
     .row.mb-2.ms-0
       .col-auto.bg-c4(data-aos="fade-left")
@@ -189,7 +189,7 @@
     .row.mb-5(data-aos="fade-right")
       .col-auto
         .px-3.py-2.bg-c8
-          p.mb-0 B. Planificación y diseño del proyecto
+          p.mb-0 #[b B. Planificación y diseño del proyecto]
     p.mb-4(data-aos="fade-right") Para establecer una empresa ganadera eficiente, es necesario:
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -224,7 +224,7 @@
           .row.mb-5(data-aos="fade-right")
             .col-auto
               .px-3.py-2.bg-c8
-                p.mb-0 C. Infraestructura y recursos
+                p.mb-0 #[b C. Infraestructura y recursos]
           p.mb-4(data-aos="fade-right") La infraestructura debe garantizar el bienestar animal y la eficiencia productiva:
           .row.justify-content-center.mb-5
             .col-lg-10(data-aos="fade-down")
@@ -252,7 +252,7 @@
           .row.mb-5(data-aos="fade-right")
             .col-auto
               .px-3.py-2.bg-c8
-                p.mb-0 D. Selección y manejo del rebaño
+                p.mb-0 #[b D. Selección y manejo del rebaño]
           p.mb-4(data-aos="fade-right") Un manejo adecuado del hato garantiza la calidad y productividad de la carne:
           .row.justify-content-center.mb-5
             .col-lg-10
@@ -283,7 +283,7 @@
           .row.mb-5(data-aos="fade-right")
             .col-auto
               .px-3.py-2.bg-c8
-                p.mb-0 E. Gestión y administración
+                p.mb-0 #[b E. Gestión y administración]
           p.mb-4(data-aos="fade-right") Un control eficiente de los recursos permite optimizar la producción:
           .row.justify-content-center.mb-5
             .col-lg-10(data-aos="fade-down")
@@ -311,7 +311,7 @@
           .row.mb-5(data-aos="fade-right")
             .col-auto
               .px-3.py-2.bg-c8
-                p.mb-0 F. Producción y comercialización
+                p.mb-0 #[b F. Producción y comercialización]
           p.mb-4(data-aos="fade-right") La eficiencia en la producción y la comercialización impacta la rentabilidad del negocio:
           .row.justify-content-center.mb-5
             .col-lg-10
@@ -350,11 +350,11 @@
           .col-12
             .p-4
               p.mb-0 La ganadería bovina de carne en el país tiene raíces históricas que datan de la época de la conquista española, cuando se introdujo el ganado andaluz. Con el tiempo, y debido a la adaptación a condiciones locales, surgieron razas nativas. La llegada del Cebú, especialmente la línea Brahman, fortaleció la base genética del hato ganadero, mejorando su resistencia a enfermedades y facilitando su producción en climas cálidos.
-      .col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
+      .col-lg-auto.mb-4.mb-lg-0(data-aos="fade-down")
         figure
-          img(src='@/assets/curso/tema1/img21.png', alt='', style='width: 300px').m-auto
+          img(src='@/assets/curso/tema1/img21.png', alt='', style='width: 270px').m-auto
       .col-lg-4(data-aos="fade-left")
-        figure.mb-2.d-none.d-lg-block
+        figure.mb-0.d-none.d-lg-block
           img(src='@/assets/curso/tema1/img4.svg', alt='', style='width: 70px')
         p.mb-0 Con la incorporación de razas como Bos taurus, Santa Gertrudis, Charoláis, Simmental y Angus, se han mejorado aspectos como la calidad de la carne y la eficiencia alimenticia. Actualmente, la modernización del sector incluye el uso de tecnologías de trazabilidad, sistemas silvopastoriles y biotecnología reproductiva (inseminación artificial y transferencia de embriones).
     .row.justify-content-center.mb-5

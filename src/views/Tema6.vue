@@ -160,7 +160,7 @@
         .px-5
           #t_6_1
           .titulo-segundo.color-acento-contenido
-            h2 6.1 Elementos de protección personal (EPP) en ganadería de carne
+            h2 6.1 Elementos de Protección Personal (EPP) en ganadería de carne
           p.mb-4(data-aos="fade-right") El uso de EPP es obligatorio en el manejo de productos cárnicos, siguiendo las normativas de Seguridad y Salud en el Trabajo (SST) y Manejo Integrado de Plagas (MIP).
           SlyderF.mb-4(columnas="col-md-6 col-lg-4")(data-aos="fade-left")
             .tarjeta.bg-c1.p-4

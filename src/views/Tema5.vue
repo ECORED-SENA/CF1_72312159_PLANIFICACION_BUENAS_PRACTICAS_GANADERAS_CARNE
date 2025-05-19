@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 Gestión ambiental en la producción de bovinos de carne según la certificación en buenas prácticas ganaderas
+      h1 Gestión ambiental en la producción de bovinos de carne según la certificación en Buenas Prácticas Ganaderas (BPG)
     p.mb-4(data-aos="fade-right") La certificación en Buenas Prácticas Ganaderas (BPG) establece lineamientos específicos para garantizar una producción sostenible de bovinos de carne, minimizando el impacto ambiental y promoviendo el uso responsable de los recursos naturales. La gestión ambiental juega un papel clave en la eficiencia del sistema productivo y en la reducción de la huella ecológica de la ganadería. Las ventajas ambientales de la certificación en BPG son:
     .row
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
@@ -17,11 +17,11 @@
             .col-lg
               p.text-white Lo invitamos a escuchar el siguiente #[i Pódcast]:
               TarjetaAudio.color-acento-contenido(
-                  texto="Ventajas ambientales de la certificación en BPG"
-                  :audio="require('@/assets/curso/tema5/audio1.mp3')"
-                  @audio-hover="mostrarIndicadorTarjetaAudio = false"
+                texto="Ventajas ambientales de la certificación en BPG"
+                :audio="require('@/assets/curso/tema5/audio1.mp3')"
+                @audio-hover="mostrarIndicadorTarjetaAudio = true"
               )
-                .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+              .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema5/img1.png', alt='', style='width: 485px').m-auto

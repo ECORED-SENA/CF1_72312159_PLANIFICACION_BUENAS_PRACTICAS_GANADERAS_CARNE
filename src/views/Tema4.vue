@@ -148,7 +148,7 @@
           .titulo-segundo.color-acento-contenido
             h2 4.3 Criterios de cumplimiento y listas de chequeo
           p.mb-4(data-aos="fade-right") Cada empresa ganadera debe contar con un plan y registro de actividades acorde con el cumplimiento de las normas y resoluciones vigentes, garantizando la capacitación y competitividad del personal.
-          .row.justify-content-center.mb-5
+          .row.justify-content-center
             .col-lg-10(data-aos="fade-down")
               .row
                 .col-lg-auto.pe-lg-0.mb-4.mb-lg-0
@@ -169,14 +169,10 @@
                             i.fas.fa-arrow-circle-right
                             |
                             p.mb-0 Presentar los documentos exigidos a través de la Ventanilla Única de Trámites del ICA.
-          .row.mb-2.ms-0
-            .col-auto.bg-c4(data-aos="fade-left")
-              .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/img3.svg', alt='', style='width: 60px')
-                .col
-                  h3.mb-0 Aplicación de las buenas prácticas ganaderas (BPG)
+          Separador
+          #t_4_4
+          .titulo-segundo.color-acento-contenido
+            h2 4.4 Aplicación de las Buenas Prácticas Ganaderas (BPG)
           p.mb-4(data-aos="fade-right") La aplicación de las BPG tiene como objetivo mejorar los procesos productivos de la empresa ganadera. Para ello, se deben considerar los siguientes lineamientos:
           .row.justify-content-center.mb-4(data-aos="fade-left")
             .col-10.col-md-6.col-lg-4.mb-4
@@ -223,7 +219,7 @@
                   .col-auto
                     .py-2.px-3.bg-c30
                       p.mb-0 #[b Oportunidades de mercadeo]
-                p.text-center.mb-0 Cumplir con estándares internacionales favorece la admisibilidad de productos como carne y leche, fortaleciendo la posición de Colombia como exportado.
+                p.text-center.mb-0 Cumplir con estándares internacionales favorece la admisibilidad de productos como carne y leche, fortaleciendo la posición de Colombia como exportador.
             .col-10.col-md-6.col-lg-4
               .p-4.bg-c29
                 figure.mb-3
@@ -243,10 +239,10 @@
             .col-md
               p.mb-0 La adopción de estos criterios permite a las empresas ganaderas mejorar su productividad, reducir costos y garantizar un producto de alta calidad con acceso a mercados más exigentes.
     Separador
-    #t_4_4
+    #t_4_5
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.4 Recursos para implementación BPG
-    p.mb-4(data-aos="fade-right") La implementación de las BPG requiere la aplicación de recursos clave que favorecen la prevención y control de enfermedades, garantizando el bienestar de los animales y el personal. Estos recursos incluyen #[b registro y control de animales, aislamiento de animales enfermos, asepsia de instalaciones y medidas de bienestar animal]. A continuación, se presenta la clasificación de los recursos necesarios para la aplicación de las #[b BPG]:
+      h2 4.5 Recursos para implementación BPG
+    p.mb-4(data-aos="fade-right") La implementación de las #[b BPG] requiere la aplicación de recursos clave que favorecen la prevención y control de enfermedades, garantizando el bienestar de los animales y el personal. Estos recursos incluyen #[b registro y control de animales, aislamiento de animales enfermos, asepsia de instalaciones y medidas de bienestar animal]. A continuación, se presenta la clasificación de los recursos necesarios para la aplicación de las #[b BPG]:
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-10.col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c8
@@ -336,9 +332,9 @@
             .col-md
               p.mb-0 La adecuada gestión de estos recursos permite a las empresas ganaderas mejorar la eficiencia productiva, garantizar el cumplimiento normativo y contribuir a la sostenibilidad del sector.
     Separador
-    #t_4_5
+    #t_4_6
     .titulo-segundo.color-acento-contenido
-      h2 4.5 Diagnóstico de aplicación BPG en el predio y bienestar animal
+      h2 4.6 Diagnóstico de aplicación BPG en el predio y bienestar animal
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img1.png')})`}"
@@ -371,17 +367,13 @@
                 img(src='@/assets/curso/tema4/img3.svg', alt='', style='width: 80px').m-auto
             .col-md
               p.mb-0 #[b Acceso a mercados nacionales e internacionales]
-    p.mb-5(data-aos="fade-right") La certificación en BPG no solo mejora la competitividad del sector, sino que también contribuye a la producción de carne segura, sostenible y de alta calidad.
-    .row.mb-2.ms-0
-      .col-auto.bg-c4(data-aos="fade-left")
-        .row.align-items-center
-          .col-auto.px-0
-            figure
-              img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
-          .col
-            h3.mb-0 Medidas técnicas para la aplicación de BPG
+    p.mb-0(data-aos="fade-right") La certificación en BPG no solo mejora la competitividad del sector, sino que también contribuye a la producción de carne segura, sostenible y de alta calidad.
+    Separador
+    #t_4_7
+    .titulo-segundo.color-acento-contenido
+      h2 4.7 Medidas técnicas para la aplicación de BPG
     p.mb-4(data-aos="fade-right") Para la correcta implementación de las BPG, se deben aplicar las siguientes medidas técnicas:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
         .row
           .col-lg-auto.pe-lg-0.mb-4.mb-lg-0
@@ -431,14 +423,10 @@
     .row.bg-c32
       .col-12
         .px-5
-          .row.mb-2.ms-0
-            .col-auto.bg-c4(data-aos="fade-left")
-              .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
-                .col
-                  h3.mb-0  Diagnóstico de aplicación de BPG
+          Separador
+          #t_4_8
+          .titulo-segundo.color-acento-contenido
+            h2 4.8 Diagnóstico de aplicación de BPG
           p.mb-4(data-aos="fade-right") El diagnóstico de la aplicación de las BPG en un predio es fundamental para evaluar su cumplimiento y acercarse a la certificación. Para ello, es necesario revisar los documentos establecidos en la Resolución ICA 068167 de 2020, los cuales incluyen:
           .row.justify-content-center.mb-4(data-aos="fade-right")
             .col-md-6.col-lg-3.mb-4.mb-lg-0
@@ -446,19 +434,25 @@
                 figure.mb-3
                   img(src='@/assets/curso/tema4/img4.svg', alt='', style='width: 80px').m-auto
                 p.text-center #[b Anexo I]
-                p.text-center.mb-0 Lista de chequeo para la certificación de BPG.
+                p.text-center.mb-0 Lista de chequeo BPG carne - Forma 3-138 V.4.
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .p-4.bg-c26.shadow.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema4/img4.svg', alt='', style='width: 80px').m-auto
                 p.text-center #[b Anexo II]
-                p.text-center.mb-0 Criterios de cumplimiento para la certificación de predios en BPG.
-            .col-md-6.col-lg-3
+                p.text-center.mb-0 Formulario de solicitud de certificación.
+            .col-md-6.col-lg-3.mb-4.mb-md-0
               .p-4.bg-c26.shadow.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema4/img4.svg', alt='', style='width: 80px').m-auto
                 p.text-center #[b Anexo III]
-                p.text-center.mb-0 Resolución 068167 de 2020.
+                p.text-center.mb-0 Formato de acta de visita técnica.
+            .col-md-6.col-lg-3
+              .p-4.bg-c26.shadow.h-100
+                figure.mb-3
+                  img(src='@/assets/curso/tema4/img4.svg', alt='', style='width: 80px').m-auto
+                p.text-center #[b Anexo IV]
+                p.text-center.mb-0 Guía de interpretación de requisitos.
           .row.justify-content-center
             .col-lg-10(data-aos="fade-left")
               .p-4
@@ -467,7 +461,7 @@
                     figure
                       img(src='@/assets/curso/tema4/img5.svg', alt='', style='width: 80px').m-auto
                   .col-md
-                    p Se recomienda consultar la #[b Resolución 068167 de 2020] para ampliar el conocimiento sobre los criterios de cumplimiento y listas de chequeo en la aplicación de buenas prácticas ganaderas, consultando la Resolución 068167 del 2020, en el enlace que encuentra a continuación:
+                    p Para ampliar el conocimiento sobre los criterios de cumplimiento y listas de chequeo en la aplicación de buenas prácticas ganaderas, consultando la Resolución 068167 del 2020, en el enlace que encuentra a continuación:
                     .row
                       .col-auto
                         a.anexo.mb-4.mb-lg-0.shadow(href="https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx" target="_blank")

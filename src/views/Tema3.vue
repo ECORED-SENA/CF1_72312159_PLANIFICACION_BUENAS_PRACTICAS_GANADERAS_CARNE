@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Política sanitaria y de inocuidad en alimentos
-    p(data-aos="fade-right") La política sanitaria está regida bajo estatutos internacionales por la Organización Mundial de Sanidad Animal (OIE). A nivel nacional, entidades como la Federación Colombiana de Ganaderos (FEDEGAN) se encargan del manejo de enfermedades de control oficial y de otros parámetros como el levante, manejo y producción bovina.
+    p(data-aos="fade-right") La política sanitaria está regida bajo estatutos internacionales por la Organización Mundial de Sanidad Animal (OMSA). A nivel nacional, entidades como la Federación Colombiana de Ganaderos (FEDEGAN) se encargan del manejo de enfermedades de control oficial y de otros parámetros como el levante, manejo y producción bovina.
     .row.mb-4(data-aos="fade-right")
       .col-lg-6.bg-c15
         .px-4.py-5
@@ -82,29 +82,29 @@
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-10.col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c8
-          p.text-center.mb-0 Salud Animal
+          p.text-center.mb-0 #[b Salud Animal]
       .col-10.col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c12
-          p.text-center.mb-0 Ley 395 del 1997
+          p.text-center.mb-0 #[b Ley 395 del 1997]
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0
         .p-4.bg-c8
-          p.text-center.mb-0 Resolución 3865 de 2003
+          p.text-center.mb-0 #[b Resolución 3865 de 2003]
       .col-10.col-md-6.col-lg-3
         .p-4.bg-c12
-          p.text-center.mb-0 Resolución 0322 de 2004
+          p.text-center.mb-0 #[b Resolución 0322 de 2004]
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-10.col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c8
-          p.text-center.mb-0 Resolución 1313 de 2010
+          p.text-center.mb-0 #[b Resolución 1313 de 2010]
       .col-10.col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-4.bg-c12
-          p.text-center.mb-0 Resolución 119 de 2004
+          p.text-center.mb-0 #[b Resolución 119 de 2004]
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0
         .p-4.bg-c8
-          p.text-center.mb-0 Resolución 1192 de 2008
+          p.text-center.mb-0 #[b Resolución 1192 de 2008]
       .col-10.col-md-6.col-lg-3
         .p-4.bg-c12
-          p.text-center.mb-0 Resolución 1513 de 2004
+          p.text-center.mb-0 #[b Resolución 1513 de 2004]
     p.mb-4(data-aos="fade-down") En cuanto a la inocuidad pecuaria, conozca en la siguiente gráfica la reglamentación existente; tenga presente que tales normativas se actualizan, se postulan cambios y ajustes permanentes para las prácticas ganaderas de producción:
     .row.bg-c20
       .col-12
@@ -122,7 +122,8 @@
                   td
                     p.mb-0 CONPES 3676 de 2010
                   td
-                    p.txt-c1 Este documento consolidó la política sanitaria y de inocuidad para las cadenas láctea y cárnica, estableciendo lineamientos para la mejora continua en estos sectores. Consultar norma en:
+                    p.txt-c1 Este documento consolidó la política sanitaria y de inocuidad para las cadenas láctea y cárnica, estableciendo lineamientos para la mejora continua en estos sectores.
+                    p.txt-c1 Consultar norma en:
                     .row
                       .col-auto
                         a.anexo.mb-4.mb-lg-0.shadow(href="https://www.ica.gov.co/getattachment/3b31038a-72ba-40f9-a34d-cecd89015890/2010cp3676.aspx" target="_blank")
@@ -130,19 +131,6 @@
                             img(src="@/assets/template/icono-link.svg")
                           .anexo__texto
                             p #[b Enlace web.] CONPES 3676 de 2010
-                tr
-                  td
-                    p.mb-0 Decreto 1500 de 2007
-                  td
-                    p.txt-c1 Establece el reglamento técnico que crea el sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos, estableciendo los requisitos sanitarios y de inocuidad necesarios a lo largo de toda la cadena productiva.
-                    p.txt-c1 Consultar norma en:
-                    .row
-                      .col-auto
-                        a.anexo.mb-4.mb-lg-0.shadow(href="https://corponarino.gov.co/expedientes/juridica/2007decreto1500.pdf" target="_blank")
-                          .anexo__icono
-                            img(src="@/assets/template/icono-link.svg")
-                          .anexo__texto
-                            p #[b Enlace web.] Decreto 1500 de 2007
                 tr
                   td
                     p.mb-0 Resolución 2341 de 2007
@@ -156,6 +144,19 @@
                             img(src="@/assets/template/icono-link.svg")
                           .anexo__texto
                             p #[b Enlace web.] Resolución 2341 de 2007
+                tr
+                  td
+                    p.mb-0 Decreto 1500 de 2007
+                  td
+                    p.txt-c1 Establece el reglamento técnico que crea el sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos, estableciendo los requisitos sanitarios y de inocuidad necesarios a lo largo de toda la cadena productiva.
+                    p.txt-c1 Consultar norma en:
+                    .row
+                      .col-auto
+                        a.anexo.mb-4.mb-lg-0.shadow(href="https://corponarino.gov.co/expedientes/juridica/2007decreto1500.pdf" target="_blank")
+                          .anexo__icono
+                            img(src="@/assets/template/icono-link.svg")
+                          .anexo__texto
+                            p #[b Enlace web.] Decreto 1500 de 2007
                 tr
                   td
                     p.mb-0 Resolución número 000253 de 2020
@@ -173,7 +174,7 @@
                   td
                     p.mb-0 Decreto No. 2113 de 2017
                   td
-                    p.txt-c1 El Capítulo 5 de este decreto aborda el bienestar animal para las especies de producción, estableciendo principios básicos como la libertad de hambre, sed, dolor y estrés, aplicables especialmente a los bovinos de carne.
+                    p.txt-c1 El Capítulo 5 de este decreto aborda el bienestar animal para las especies de producción en el sector agropecuario, estableciendo principios básicos como la libertad de hambre, sed, dolor y estrés, aplicables especialmente a los bovinos de carne.
                     p.txt-c1 Consultar norma en:
                     .row
                       .col-auto
@@ -192,7 +193,6 @@
       .p-4.p-lg-5(titulo="Valor de exportación")
         .row.justify-content-center.align-items-center
           .col-lg-5.mb-4.mb-lg-0
-            p #[b Valor de exportación]
             p.mb-0 Los productos ganaderos generan un valor de exportación de 132 millones de dólares (DANE-ESAGa, 2020; FEDEGAN, 2020a; FEDEGAN-FNG, 2020). Los principales mercados incluyen Líbano e Irak (ganado vivo) y Rusia, Líbano, Vietnam y Egipto (carne vacuna).
           .col-lg-5
             figure
@@ -200,7 +200,6 @@
       .p-4.p-lg-5(titulo="Reducción de la demanda interna")
         .row.justify-content-center.align-items-center
           .col-lg-5.mb-4.mb-lg-0
-            p #[b Reducción de la demanda interna]
             p.mb-0 La industria nacional de carne logró mitigar la reducción del consumo interno aumentando sus volúmenes de exportación en un 80 % durante el primer trimestre de 2020 (Contexto Ganadero, 2020d; DANE-ESAG, 2020a).
           .col-lg-5
             figure
@@ -208,7 +207,6 @@
       .p-4.p-lg-5(titulo="Implementación de la normatividad")
         .row.justify-content-center.align-items-center
           .col-lg-5.mb-4.mb-lg-0
-            p #[b Implementación de la normatividad]
             p.mb-0 Se destaca la importancia de las medidas implementadas en normativas relacionadas con la salud animal y la inocuidad pecuaria, asegurando la calidad y seguridad de los productos ganaderos.
           .col-lg-5
             figure

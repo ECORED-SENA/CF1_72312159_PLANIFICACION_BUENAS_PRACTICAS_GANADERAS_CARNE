@@ -77,6 +77,7 @@
                   i.fas.fa-arrow-circle-right
                   |
                   p.mb-0 #[i Nelore]: originaria de Brasil, se aprecia por su resistencia y producción de carne magra de calidad.
+              p.mb-0 El ganado Cebú resulta fundamental en sistemas de ganadería extensiva y se emplea en cruzamientos para mejorar características productivas.
           .row(titulo="<i>Charoláis (Bos taurus)</i>")
             .col-12
               p De origen francés, esta raza se reconoce mundialmente por su alto rendimiento en carne magra, tierna y de excelente calidad. Se caracteriza por:

@@ -100,14 +100,29 @@ export default {
           },
           {
             numero: '4.4',
-            titulo: 'Recursos para la implementación de BPG',
+            titulo: 'Aplicación de las buenas prácticas ganaderas (BPG)',
             hash: 't_4_4',
           },
           {
             numero: '4.5',
+            titulo: 'Recursos para implementación BPG',
+            hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
             titulo:
               'Diagnóstico de aplicación BPG en el predio y bienestar animal',
-            hash: 't_4_5',
+            hash: 't_4_6',
+          },
+          {
+            numero: '4.7',
+            titulo: 'Medidas técnicas para la aplicación de BPG',
+            hash: 't_4_7',
+          },
+          {
+            numero: '4.8',
+            titulo: 'Diagnóstico de aplicación de BPG',
+            hash: 't_4_8',
           },
         ],
       },
@@ -115,7 +130,7 @@ export default {
         nombreRuta: 'tema5',
         numero: '5',
         titulo:
-          'Gestión ambiental en la producción de bovinos de carne según la certificación en buenas prácticas ganaderas (BPG)',
+          'Gestión ambiental en la producción de bovinos de carne según la certificación en Buenas Prácticas Ganaderas (BPG)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -135,7 +150,7 @@ export default {
           {
             numero: '6.1',
             titulo:
-              'Elementos de protección personal (EPP) en ganadería de carne',
+              'Elementos de Protección Personal (EPP) en ganadería de carne',
             hash: 't_6_1',
           },
         ],
