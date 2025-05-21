@@ -345,18 +345,16 @@
           .col
             h3.mb-0 Estructura y características de la ganadería bovina de carne en Colombia
     .row.mb-5
-      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .row.h-100.align-items-center.bg-c11
           .col-12
             .p-4
-              p.mb-0 La ganadería bovina de carne en el país tiene raíces históricas que datan de la época de la conquista española, cuando se introdujo el ganado andaluz. Con el tiempo, y debido a la adaptación a condiciones locales, surgieron razas nativas. La llegada del Cebú, especialmente la línea Brahman, fortaleció la base genética del hato ganadero, mejorando su resistencia a enfermedades y facilitando su producción en climas cálidos.
-      .col-lg-auto.mb-4.mb-lg-0(data-aos="fade-down")
-        figure
-          img(src='@/assets/curso/tema1/img21.png', alt='', style='width: 270px').m-auto
+              p La ganadería bovina de carne en el país tiene raíces históricas que datan de la época de la conquista española, cuando se introdujo el ganado andaluz. Con el tiempo, y debido a la adaptación a condiciones locales, surgieron razas nativas. La llegada del Cebú, especialmente la línea Brahman, fortaleció la base genética del hato ganadero, mejorando su resistencia a enfermedades y facilitando su producción en climas cálidos.
+              p.mb-0 Con la incorporación de razas como Bos taurus, Santa Gertrudis, Charoláis, Simmental y Angus, se han mejorado aspectos como la calidad de la carne y la eficiencia alimenticia. Actualmente, la modernización del sector incluye el uso de tecnologías de trazabilidad, sistemas silvopastoriles y biotecnología reproductiva (inseminación artificial y transferencia de embriones).
       .col-lg-4(data-aos="fade-left")
-        figure.mb-0.d-none.d-lg-block
-          img(src='@/assets/curso/tema1/img4.svg', alt='', style='width: 70px')
-        p.mb-0 Con la incorporación de razas como Bos taurus, Santa Gertrudis, Charoláis, Simmental y Angus, se han mejorado aspectos como la calidad de la carne y la eficiencia alimenticia. Actualmente, la modernización del sector incluye el uso de tecnologías de trazabilidad, sistemas silvopastoriles y biotecnología reproductiva (inseminación artificial y transferencia de embriones).
+        figure
+          img(src='@/assets/curso/tema1/img21.png', alt='', style='width: 370px').m-auto
+        
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade-down")
         .p-4.bg-c12

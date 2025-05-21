@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Buenas prácticas ganaderas en la producción de bovinos de carne (BPG) y bienestar animal
+      h1 Buenas Prácticas Ganaderas (BPG) en la producción de bovinos de carne y bienestar animal
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"

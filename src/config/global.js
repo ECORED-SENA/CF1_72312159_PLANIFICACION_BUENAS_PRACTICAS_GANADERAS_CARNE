@@ -80,7 +80,7 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          'Buenas prácticas ganaderas en la producción de bovinos de carne (BPG) y bienestar animal',
+          'Buenas Prácticas Ganaderas (BPG) en la producción de bovinos de carne y bienestar animal',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -100,7 +100,7 @@ export default {
           },
           {
             numero: '4.4',
-            titulo: 'Aplicación de las buenas prácticas ganaderas (BPG)',
+            titulo: 'Aplicación de las Buenas Prácticas Ganaderas (BPG)',
             hash: 't_4_4',
           },
           {
